@@ -1,0 +1,9 @@
+*.pyc
+log*
+data
+submit.sh
+params/*
+*.pk
+__pycache__/*
+*log
+.idea/
